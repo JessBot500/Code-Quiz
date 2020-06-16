@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: content-box;
+}
+​
+.hidden {
+    display: none;
+}
+​
+.question {
+    margin-bottom: 10px;
+}
+​
+.scores-table td, .scores-table th {
+    padding: 5px;
+    text-align: left;
+}
+​
+.current-score {
+    margin-bottom: 20px;
+}
