@@ -22,3 +22,7 @@
 - There is a button on the page for viewing top scores
 
 - There is a button on the page for starting the quiz
+
+Repo: https://github.com/JessBot500/Code-Quiz
+
+Deployed sit: https://jessbot500.github.io/Code-Quiz/
